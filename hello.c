@@ -17,3 +17,17 @@
 
 //     return 0;
 // }
+// int main(){
+
+//     int num1, num2;
+//     printf("Please Enter  a Number");
+//     scanf("%d", &num1);
+//     printf("Please Enter another number");
+//     scanf("%d", &num2);
+
+//     printf("%d", &num2);
+//     printf("%d+%d=%d\n", num1, num2, num1 + num2);
+//     printf("%d-%d=%d\n", num1, num2, num1 - num2);
+//     printf("%d*%d =%d\n",num1,num2,num1*num2);
+//     printf("%d/%d=%d\n", num1, num2, num1 / num2);
+// }
